@@ -1,0 +1,340 @@
+,name1,name2,pair indexes,distance
+1,"Allen, Mr. William Henry","Brocklebank, Mr. William Alfred","(4, 614)",0.0
+2,"Emir, Mr. Farred Chehab","Yousif, Mr. Wazli","(26, 354)",0.0
+3,"Emir, Mr. Farred Chehab","Lahoud, Mr. Sarkis","(26, 522)",0.0
+4,"Emir, Mr. Farred Chehab","Boulos, Mr. Hanna","(26, 598)",0.0
+5,"Emir, Mr. Farred Chehab","Elias, Mr. Dibo","(26, 773)",0.0
+6,"O'Dwyer, Miss. Ellen ""Nellie""","McGovern, Miss. Mary","(28, 358)",0.0
+7,"O'Dwyer, Miss. Ellen ""Nellie""","Mockler, Miss. Helen Mary ""Ellie""","(28, 359)",0.0
+8,"Todoroff, Mr. Lalio","Kraeff, Mr. Theodor","(29, 42)",0.0
+9,"Todoroff, Mr. Lalio","Staneff, Mr. Ivan","(29, 76)",0.0
+10,"Todoroff, Mr. Lalio","Petroff, Mr. Pastcho (""Pentcho"")","(29, 101)",0.0
+11,"Todoroff, Mr. Lalio","Nenkoff, Mr. Christo","(29, 223)",0.0
+12,"Todoroff, Mr. Lalio","Denkoff, Mr. Mitto","(29, 335)",0.0
+13,"Todoroff, Mr. Lalio","Plotcharsky, Mr. Vasil","(29, 384)",0.0
+14,"Todoroff, Mr. Lalio","Sdycoff, Mr. Todor","(29, 410)",0.0
+15,"Todoroff, Mr. Lalio","Gheorgheff, Mr. Stanio","(29, 420)",0.0
+16,"Todoroff, Mr. Lalio","Slabenoff, Mr. Petco","(29, 601)",0.0
+17,"Todoroff, Mr. Lalio","Mitkoff, Mr. Mito","(29, 650)",0.0
+18,"Todoroff, Mr. Lalio","Radeff, Mr. Alexander","(29, 656)",0.0
+19,"Todoroff, Mr. Lalio","Ivanoff, Mr. Kanio","(29, 738)",0.0
+20,"Todoroff, Mr. Lalio","Nankoff, Mr. Minko","(29, 739)",0.0
+21,"Todoroff, Mr. Lalio","Laleff, Mr. Kristo","(29, 878)",0.0
+22,"Glynn, Miss. Mary Agatha","O'Driscoll, Miss. Bridget","(32, 47)",0.0
+23,"Glynn, Miss. Mary Agatha","Madigan, Miss. Margaret ""Maggie""","(32, 198)",0.0
+24,"Glynn, Miss. Mary Agatha","Healy, Miss. Hanora ""Nora""","(32, 274)",0.0
+25,"Glynn, Miss. Mary Agatha","Kelly, Miss. Anna Katherine ""Annie Kate""","(32, 300)",0.0
+26,"Glynn, Miss. Mary Agatha","Jermyn, Miss. Annie","(32, 368)",0.0
+27,"Glynn, Miss. Mary Agatha","Kelly, Miss. Mary","(32, 573)",0.0
+28,"Cann, Mr. Ernest Charles","Stanley, Mr. Edward Roland","(37, 494)",0.0
+29,"Kraeff, Mr. Theodor","Staneff, Mr. Ivan","(42, 76)",0.0
+30,"Kraeff, Mr. Theodor","Petroff, Mr. Pastcho (""Pentcho"")","(42, 101)",0.0
+31,"Kraeff, Mr. Theodor","Nenkoff, Mr. Christo","(42, 223)",0.0
+32,"Kraeff, Mr. Theodor","Denkoff, Mr. Mitto","(42, 335)",0.0
+33,"Kraeff, Mr. Theodor","Plotcharsky, Mr. Vasil","(42, 384)",0.0
+34,"Kraeff, Mr. Theodor","Sdycoff, Mr. Todor","(42, 410)",0.0
+35,"Kraeff, Mr. Theodor","Gheorgheff, Mr. Stanio","(42, 420)",0.0
+36,"Kraeff, Mr. Theodor","Slabenoff, Mr. Petco","(42, 601)",0.0
+37,"Kraeff, Mr. Theodor","Mitkoff, Mr. Mito","(42, 650)",0.0
+38,"Kraeff, Mr. Theodor","Radeff, Mr. Alexander","(42, 656)",0.0
+39,"Kraeff, Mr. Theodor","Ivanoff, Mr. Kanio","(42, 738)",0.0
+40,"Kraeff, Mr. Theodor","Nankoff, Mr. Minko","(42, 739)",0.0
+41,"Kraeff, Mr. Theodor","Laleff, Mr. Kristo","(42, 878)",0.0
+42,"Rogers, Mr. William John","Moutal, Mr. Rahamin Haim","(45, 77)",0.0
+43,"Rogers, Mr. William John","Slocovski, Mr. Selman Francis","(45, 87)",0.0
+44,"Rogers, Mr. William John","Shorney, Mr. Charles Joseph","(45, 95)",0.0
+45,"Rogers, Mr. William John","Moore, Mr. Leonard Charles","(45, 121)",0.0
+46,"Rogers, Mr. William John","Williams, Mr. Howard Hugh ""Harry""","(45, 304)",0.0
+47,"Rogers, Mr. William John","Peduzzi, Mr. Joseph","(45, 454)",0.0
+48,"Rogers, Mr. William John","Maisner, Mr. Simon","(45, 464)",0.0
+49,"Rogers, Mr. William John","Webber, Mr. James","(45, 511)",0.0
+50,"Rogers, Mr. William John","Simmons, Mr. John","(45, 563)",0.0
+51,"Rogers, Mr. William John","Murdlin, Mr. Joseph","(45, 589)",0.0
+52,"Rogers, Mr. William John","Sirota, Mr. Maurice","(45, 837)",0.0
+53,"Lennon, Mr. Denis","O'Brien, Mr. Thomas","(46, 364)",0.0
+54,"O'Driscoll, Miss. Bridget","Madigan, Miss. Margaret ""Maggie""","(47, 198)",0.0
+55,"O'Driscoll, Miss. Bridget","Healy, Miss. Hanora ""Nora""","(47, 274)",0.0
+56,"O'Driscoll, Miss. Bridget","Kelly, Miss. Anna Katherine ""Annie Kate""","(47, 300)",0.0
+57,"O'Driscoll, Miss. Bridget","Jermyn, Miss. Annie","(47, 368)",0.0
+58,"O'Driscoll, Miss. Bridget","Kelly, Miss. Mary","(47, 573)",0.0
+59,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)","Weisz, Mrs. Leopold (Mathilde Francoise Pede)","(53, 133)",0.0
+60,"Stewart, Mr. Albert A","Lewy, Mr. Ervin G","(64, 295)",0.0
+61,"Moubarek, Master. Gerios","Moubarek, Master. Halim Gonios (""William George"")","(65, 709)",0.0
+62,"Bing, Mr. Lee","Chip, Mr. Chang","(74, 838)",0.0
+63,"Staneff, Mr. Ivan","Petroff, Mr. Pastcho (""Pentcho"")","(76, 101)",0.0
+64,"Staneff, Mr. Ivan","Nenkoff, Mr. Christo","(76, 223)",0.0
+65,"Staneff, Mr. Ivan","Denkoff, Mr. Mitto","(76, 335)",0.0
+66,"Staneff, Mr. Ivan","Plotcharsky, Mr. Vasil","(76, 384)",0.0
+67,"Staneff, Mr. Ivan","Sdycoff, Mr. Todor","(76, 410)",0.0
+68,"Staneff, Mr. Ivan","Gheorgheff, Mr. Stanio","(76, 420)",0.0
+69,"Staneff, Mr. Ivan","Slabenoff, Mr. Petco","(76, 601)",0.0
+70,"Staneff, Mr. Ivan","Mitkoff, Mr. Mito","(76, 650)",0.0
+71,"Staneff, Mr. Ivan","Radeff, Mr. Alexander","(76, 656)",0.0
+72,"Staneff, Mr. Ivan","Ivanoff, Mr. Kanio","(76, 738)",0.0
+73,"Staneff, Mr. Ivan","Nankoff, Mr. Minko","(76, 739)",0.0
+74,"Staneff, Mr. Ivan","Laleff, Mr. Kristo","(76, 878)",0.0
+75,"Moutal, Mr. Rahamin Haim","Slocovski, Mr. Selman Francis","(77, 87)",0.0
+76,"Moutal, Mr. Rahamin Haim","Shorney, Mr. Charles Joseph","(77, 95)",0.0
+77,"Moutal, Mr. Rahamin Haim","Moore, Mr. Leonard Charles","(77, 121)",0.0
+78,"Moutal, Mr. Rahamin Haim","Williams, Mr. Howard Hugh ""Harry""","(77, 304)",0.0
+79,"Moutal, Mr. Rahamin Haim","Peduzzi, Mr. Joseph","(77, 454)",0.0
+80,"Moutal, Mr. Rahamin Haim","Maisner, Mr. Simon","(77, 464)",0.0
+81,"Moutal, Mr. Rahamin Haim","Webber, Mr. James","(77, 511)",0.0
+82,"Moutal, Mr. Rahamin Haim","Simmons, Mr. John","(77, 563)",0.0
+83,"Moutal, Mr. Rahamin Haim","Murdlin, Mr. Joseph","(77, 589)",0.0
+84,"Moutal, Mr. Rahamin Haim","Sirota, Mr. Maurice","(77, 837)",0.0
+85,"Slocovski, Mr. Selman Francis","Shorney, Mr. Charles Joseph","(87, 95)",0.0
+86,"Slocovski, Mr. Selman Francis","Moore, Mr. Leonard Charles","(87, 121)",0.0
+87,"Slocovski, Mr. Selman Francis","Williams, Mr. Howard Hugh ""Harry""","(87, 304)",0.0
+88,"Slocovski, Mr. Selman Francis","Peduzzi, Mr. Joseph","(87, 454)",0.0
+89,"Slocovski, Mr. Selman Francis","Maisner, Mr. Simon","(87, 464)",0.0
+90,"Slocovski, Mr. Selman Francis","Webber, Mr. James","(87, 511)",0.0
+91,"Slocovski, Mr. Selman Francis","Simmons, Mr. John","(87, 563)",0.0
+92,"Slocovski, Mr. Selman Francis","Murdlin, Mr. Joseph","(87, 589)",0.0
+93,"Slocovski, Mr. Selman Francis","Sirota, Mr. Maurice","(87, 837)",0.0
+94,"Andreasson, Mr. Paul Edvin","Jensen, Mr. Hans Peder","(91, 640)",0.0
+95,"Shorney, Mr. Charles Joseph","Moore, Mr. Leonard Charles","(95, 121)",0.0
+96,"Shorney, Mr. Charles Joseph","Williams, Mr. Howard Hugh ""Harry""","(95, 304)",0.0
+97,"Shorney, Mr. Charles Joseph","Peduzzi, Mr. Joseph","(95, 454)",0.0
+98,"Shorney, Mr. Charles Joseph","Maisner, Mr. Simon","(95, 464)",0.0
+99,"Shorney, Mr. Charles Joseph","Webber, Mr. James","(95, 511)",0.0
+100,"Shorney, Mr. Charles Joseph","Simmons, Mr. John","(95, 563)",0.0
+101,"Shorney, Mr. Charles Joseph","Murdlin, Mr. Joseph","(95, 589)",0.0
+102,"Shorney, Mr. Charles Joseph","Sirota, Mr. Maurice","(95, 837)",0.0
+103,"Petroff, Mr. Pastcho (""Pentcho"")","Nenkoff, Mr. Christo","(101, 223)",0.0
+104,"Petroff, Mr. Pastcho (""Pentcho"")","Denkoff, Mr. Mitto","(101, 335)",0.0
+105,"Petroff, Mr. Pastcho (""Pentcho"")","Plotcharsky, Mr. Vasil","(101, 384)",0.0
+106,"Petroff, Mr. Pastcho (""Pentcho"")","Sdycoff, Mr. Todor","(101, 410)",0.0
+107,"Petroff, Mr. Pastcho (""Pentcho"")","Gheorgheff, Mr. Stanio","(101, 420)",0.0
+108,"Petroff, Mr. Pastcho (""Pentcho"")","Slabenoff, Mr. Petco","(101, 601)",0.0
+109,"Petroff, Mr. Pastcho (""Pentcho"")","Mitkoff, Mr. Mito","(101, 650)",0.0
+110,"Petroff, Mr. Pastcho (""Pentcho"")","Radeff, Mr. Alexander","(101, 656)",0.0
+111,"Petroff, Mr. Pastcho (""Pentcho"")","Ivanoff, Mr. Kanio","(101, 738)",0.0
+112,"Petroff, Mr. Pastcho (""Pentcho"")","Nankoff, Mr. Minko","(101, 739)",0.0
+113,"Petroff, Mr. Pastcho (""Pentcho"")","Laleff, Mr. Kristo","(101, 878)",0.0
+114,"Mionoff, Mr. Stoytcho","Hendekovic, Mr. Ignjac","(105, 313)",0.0
+115,"Barton, Mr. David John","Gilinski, Mr. Eliezer","(112, 588)",0.0
+116,"Pekoniemi, Mr. Edvard","Sivola, Mr. Antti Wilhelm","(115, 173)",0.0
+117,"Moore, Mr. Leonard Charles","Williams, Mr. Howard Hugh ""Harry""","(121, 304)",0.0
+118,"Moore, Mr. Leonard Charles","Peduzzi, Mr. Joseph","(121, 454)",0.0
+119,"Moore, Mr. Leonard Charles","Maisner, Mr. Simon","(121, 464)",0.0
+120,"Moore, Mr. Leonard Charles","Webber, Mr. James","(121, 511)",0.0
+121,"Moore, Mr. Leonard Charles","Simmons, Mr. John","(121, 563)",0.0
+122,"Moore, Mr. Leonard Charles","Murdlin, Mr. Joseph","(121, 589)",0.0
+123,"Moore, Mr. Leonard Charles","Sirota, Mr. Maurice","(121, 837)",0.0
+124,"McMahon, Mr. Martin","Mernagh, Mr. Robert","(126, 196)",0.0
+125,"McMahon, Mr. Martin","Smith, Mr. Thomas","(126, 260)",0.0
+126,"McMahon, Mr. Martin","Flynn, Mr. James","(126, 428)",0.0
+127,"McMahon, Mr. Martin","O'Connor, Mr. Maurice","(126, 459)",0.0
+128,"McMahon, Mr. Martin","Morrow, Mr. Thomas Rowan","(126, 560)",0.0
+129,"McMahon, Mr. Martin","Horgan, Mr. John","(126, 613)",0.0
+130,"McMahon, Mr. Martin","Tobin, Mr. Roger","(126, 776)",0.0
+131,"McMahon, Mr. Martin","Keane, Mr. Andrew ""Andy""","(126, 790)",0.0
+132,"Drazenoic, Mr. Jozef","Markun, Mr. Johann","(130, 881)",0.0
+133,"Sobey, Mr. Samuel James Hayden","Sedgwick, Mr. Charles Frederick Waddington","(134, 343)",0.0
+134,"Sobey, Mr. Samuel James Hayden","Butler, Mr. Reginald Fenton","(134, 666)",0.0
+135,"Nysten, Miss. Anna Sofia","Connolly, Miss. Kate","(141, 289)",0.0
+136,"Andrew, Mr. Edgardo Samuel","Bailey, Mr. Percy Andrew","(144, 757)",0.0
+137,"Corn, Mr. Harry","Somerton, Mr. Francis William","(157, 488)",0.0
+138,"Sage, Master. Thomas Henry","Sage, Mr. Frederick","(159, 201)",0.0
+139,"Sage, Master. Thomas Henry","Sage, Mr. George John Jr","(159, 324)",0.0
+140,"Sage, Master. Thomas Henry","Sage, Mr. Douglas Bullen","(159, 846)",0.0
+141,"Calic, Mr. Jovo","Calic, Mr. Petar","(163, 500)",0.0
+142,"Calic, Mr. Jovo","Culumovic, Mr. Jeso","(163, 844)",0.0
+143,"Hale, Mr. Reginald","Givard, Mr. Hans Kristensen","(178, 213)",0.0
+144,"Hale, Mr. Reginald","Matthews, Mr. William John","(178, 418)",0.0
+145,"Sage, Miss. Constance Gladys","Sage, Miss. Stella Anna","(180, 792)",0.0
+146,"Sage, Miss. Constance Gladys","Sage, Miss. Dorothy Edith ""Dolly""","(180, 863)",0.0
+147,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)","Murphy, Miss. Katherine ""Kate""","(186, 241)",0.0
+148,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)","Murphy, Miss. Margaret Jane","(186, 612)",0.0
+149,"Mernagh, Mr. Robert","Smith, Mr. Thomas","(196, 260)",0.0
+150,"Mernagh, Mr. Robert","Flynn, Mr. James","(196, 428)",0.0
+151,"Mernagh, Mr. Robert","O'Connor, Mr. Maurice","(196, 459)",0.0
+152,"Mernagh, Mr. Robert","Morrow, Mr. Thomas Rowan","(196, 560)",0.0
+153,"Mernagh, Mr. Robert","Horgan, Mr. John","(196, 613)",0.0
+154,"Mernagh, Mr. Robert","Tobin, Mr. Roger","(196, 776)",0.0
+155,"Mernagh, Mr. Robert","Keane, Mr. Andrew ""Andy""","(196, 790)",0.0
+156,"Madigan, Miss. Margaret ""Maggie""","Healy, Miss. Hanora ""Nora""","(198, 274)",0.0
+157,"Madigan, Miss. Margaret ""Maggie""","Kelly, Miss. Anna Katherine ""Annie Kate""","(198, 300)",0.0
+158,"Madigan, Miss. Margaret ""Maggie""","Jermyn, Miss. Annie","(198, 368)",0.0
+159,"Madigan, Miss. Margaret ""Maggie""","Kelly, Miss. Mary","(198, 573)",0.0
+160,"Vande Walle, Mr. Nestor Cyriel","Vanden Steen, Mr. Leo Peter","(200, 355)",0.0
+161,"Sage, Mr. Frederick","Sage, Mr. George John Jr","(201, 324)",0.0
+162,"Sage, Mr. Frederick","Sage, Mr. Douglas Bullen","(201, 846)",0.0
+163,"Perkin, Mr. John Henry","Dennis, Mr. Samuel","(212, 320)",0.0
+164,"Givard, Mr. Hans Kristensen","Matthews, Mr. William John","(213, 418)",0.0
+165,"Bracken, Mr. James H","Montvila, Rev. Juozas","(221, 886)",0.0
+166,"Nenkoff, Mr. Christo","Denkoff, Mr. Mitto","(223, 335)",0.0
+167,"Nenkoff, Mr. Christo","Plotcharsky, Mr. Vasil","(223, 384)",0.0
+168,"Nenkoff, Mr. Christo","Sdycoff, Mr. Todor","(223, 410)",0.0
+169,"Nenkoff, Mr. Christo","Gheorgheff, Mr. Stanio","(223, 420)",0.0
+170,"Nenkoff, Mr. Christo","Slabenoff, Mr. Petco","(223, 601)",0.0
+171,"Nenkoff, Mr. Christo","Mitkoff, Mr. Mito","(223, 650)",0.0
+172,"Nenkoff, Mr. Christo","Radeff, Mr. Alexander","(223, 656)",0.0
+173,"Nenkoff, Mr. Christo","Ivanoff, Mr. Kanio","(223, 738)",0.0
+174,"Nenkoff, Mr. Christo","Nankoff, Mr. Minko","(223, 739)",0.0
+175,"Nenkoff, Mr. Christo","Laleff, Mr. Kristo","(223, 878)",0.0
+176,"Lefebre, Miss. Mathilde","Lefebre, Miss. Ida","(229, 409)",0.0
+177,"Lefebre, Miss. Mathilde","Lefebre, Miss. Jeannie","(229, 485)",0.0
+178,"Murphy, Miss. Katherine ""Kate""","Murphy, Miss. Margaret Jane","(241, 612)",0.0
+179,"Reed, Mr. James George","Wiseman, Mr. Phillippe","(250, 425)",0.0
+180,"Reed, Mr. James George","Keefe, Mr. Arthur","(250, 470)",0.0
+181,"Stead, Mr. William Thomas","Wright, Mr. George","(252, 555)",0.0
+182,"Smith, Mr. Thomas","Flynn, Mr. James","(260, 428)",0.0
+183,"Smith, Mr. Thomas","O'Connor, Mr. Maurice","(260, 459)",0.0
+184,"Smith, Mr. Thomas","Morrow, Mr. Thomas Rowan","(260, 560)",0.0
+185,"Smith, Mr. Thomas","Horgan, Mr. John","(260, 613)",0.0
+186,"Smith, Mr. Thomas","Tobin, Mr. Roger","(260, 776)",0.0
+187,"Smith, Mr. Thomas","Keane, Mr. Andrew ""Andy""","(260, 790)",0.0
+188,"Healy, Miss. Hanora ""Nora""","Kelly, Miss. Anna Katherine ""Annie Kate""","(274, 300)",0.0
+189,"Healy, Miss. Hanora ""Nora""","Jermyn, Miss. Annie","(274, 368)",0.0
+190,"Healy, Miss. Hanora ""Nora""","Kelly, Miss. Mary","(274, 573)",0.0
+191,"Parkes, Mr. Francis ""Frank""","Cunningham, Mr. Alfred Fleming","(277, 413)",0.0
+192,"Parkes, Mr. Francis ""Frank""","Campbell, Mr. William","(277, 466)",0.0
+193,"Parkes, Mr. Francis ""Frank""","Frost, Mr. Anthony Wood ""Archie""","(277, 481)",0.0
+194,"Parkes, Mr. Francis ""Frank""","Watson, Mr. Ennis Hastings","(277, 674)",0.0
+195,"Parkes, Mr. Francis ""Frank""","Knight, Mr. Robert J","(277, 732)",0.0
+196,"Naidenoff, Mr. Penko","Vovk, Mr. Janko","(287, 521)",0.0
+197,"Kelly, Miss. Anna Katherine ""Annie Kate""","Jermyn, Miss. Annie","(300, 368)",0.0
+198,"Kelly, Miss. Anna Katherine ""Annie Kate""","Kelly, Miss. Mary","(300, 573)",0.0
+199,"Williams, Mr. Howard Hugh ""Harry""","Peduzzi, Mr. Joseph","(304, 454)",0.0
+200,"Williams, Mr. Howard Hugh ""Harry""","Maisner, Mr. Simon","(304, 464)",0.0
+201,"Williams, Mr. Howard Hugh ""Harry""","Webber, Mr. James","(304, 511)",0.0
+202,"Williams, Mr. Howard Hugh ""Harry""","Simmons, Mr. John","(304, 563)",0.0
+203,"Williams, Mr. Howard Hugh ""Harry""","Murdlin, Mr. Joseph","(304, 589)",0.0
+204,"Williams, Mr. Howard Hugh ""Harry""","Sirota, Mr. Maurice","(304, 837)",0.0
+205,"Sage, Mr. George John Jr","Sage, Mr. Douglas Bullen","(324, 846)",0.0
+206,"Ball, Mrs. (Ada E Hall)","Buss, Miss. Kate","(327, 387)",0.0
+207,"Denkoff, Mr. Mitto","Plotcharsky, Mr. Vasil","(335, 384)",0.0
+208,"Denkoff, Mr. Mitto","Sdycoff, Mr. Todor","(335, 410)",0.0
+209,"Denkoff, Mr. Mitto","Gheorgheff, Mr. Stanio","(335, 420)",0.0
+210,"Denkoff, Mr. Mitto","Slabenoff, Mr. Petco","(335, 601)",0.0
+211,"Denkoff, Mr. Mitto","Mitkoff, Mr. Mito","(335, 650)",0.0
+212,"Denkoff, Mr. Mitto","Radeff, Mr. Alexander","(335, 656)",0.0
+213,"Denkoff, Mr. Mitto","Ivanoff, Mr. Kanio","(335, 738)",0.0
+214,"Denkoff, Mr. Mitto","Nankoff, Mr. Minko","(335, 739)",0.0
+215,"Denkoff, Mr. Mitto","Laleff, Mr. Kristo","(335, 878)",0.0
+216,"Sedgwick, Mr. Charles Frederick Waddington","Butler, Mr. Reginald Fenton","(343, 666)",0.0
+217,"Davison, Mrs. Thomas Henry (Mary E Finck)","Thorneycroft, Mrs. Percival (Florence Kate White)","(347, 431)",0.0
+218,"Yousif, Mr. Wazli","Lahoud, Mr. Sarkis","(354, 522)",0.0
+219,"Yousif, Mr. Wazli","Boulos, Mr. Hanna","(354, 598)",0.0
+220,"Yousif, Mr. Wazli","Elias, Mr. Dibo","(354, 773)",0.0
+221,"McGovern, Miss. Mary","Mockler, Miss. Helen Mary ""Ellie""","(358, 359)",0.0
+222,"Jermyn, Miss. Annie","Kelly, Miss. Mary","(368, 573)",0.0
+223,"Aubart, Mme. Leontine Pauline","Sagesser, Mlle. Emma","(369, 641)",0.0
+224,"Tikkanen, Mr. Juho","Leinonen, Mr. Antti Gustaf","(382, 636)",0.0
+225,"Plotcharsky, Mr. Vasil","Sdycoff, Mr. Todor","(384, 410)",0.0
+226,"Plotcharsky, Mr. Vasil","Gheorgheff, Mr. Stanio","(384, 420)",0.0
+227,"Plotcharsky, Mr. Vasil","Slabenoff, Mr. Petco","(384, 601)",0.0
+228,"Plotcharsky, Mr. Vasil","Mitkoff, Mr. Mito","(384, 650)",0.0
+229,"Plotcharsky, Mr. Vasil","Radeff, Mr. Alexander","(384, 656)",0.0
+230,"Plotcharsky, Mr. Vasil","Ivanoff, Mr. Kanio","(384, 738)",0.0
+231,"Plotcharsky, Mr. Vasil","Nankoff, Mr. Minko","(384, 739)",0.0
+232,"Plotcharsky, Mr. Vasil","Laleff, Mr. Kristo","(384, 878)",0.0
+233,"Gale, Mr. Shadrach","Renouf, Mr. Peter Henry","(405, 476)",0.0
+234,"Lefebre, Miss. Ida","Lefebre, Miss. Jeannie","(409, 485)",0.0
+235,"Sdycoff, Mr. Todor","Gheorgheff, Mr. Stanio","(410, 420)",0.0
+236,"Sdycoff, Mr. Todor","Slabenoff, Mr. Petco","(410, 601)",0.0
+237,"Sdycoff, Mr. Todor","Mitkoff, Mr. Mito","(410, 650)",0.0
+238,"Sdycoff, Mr. Todor","Radeff, Mr. Alexander","(410, 656)",0.0
+239,"Sdycoff, Mr. Todor","Ivanoff, Mr. Kanio","(410, 738)",0.0
+240,"Sdycoff, Mr. Todor","Nankoff, Mr. Minko","(410, 739)",0.0
+241,"Sdycoff, Mr. Todor","Laleff, Mr. Kristo","(410, 878)",0.0
+242,"Cunningham, Mr. Alfred Fleming","Campbell, Mr. William","(413, 466)",0.0
+243,"Cunningham, Mr. Alfred Fleming","Frost, Mr. Anthony Wood ""Archie""","(413, 481)",0.0
+244,"Cunningham, Mr. Alfred Fleming","Watson, Mr. Ennis Hastings","(413, 674)",0.0
+245,"Cunningham, Mr. Alfred Fleming","Knight, Mr. Robert J","(413, 732)",0.0
+246,"Meek, Mrs. Thomas (Annie Louise Rowley)","Meanwell, Miss. (Marion Ogden)","(415, 564)",0.0
+247,"Gheorgheff, Mr. Stanio","Slabenoff, Mr. Petco","(420, 601)",0.0
+248,"Gheorgheff, Mr. Stanio","Mitkoff, Mr. Mito","(420, 650)",0.0
+249,"Gheorgheff, Mr. Stanio","Radeff, Mr. Alexander","(420, 656)",0.0
+250,"Gheorgheff, Mr. Stanio","Ivanoff, Mr. Kanio","(420, 738)",0.0
+251,"Gheorgheff, Mr. Stanio","Nankoff, Mr. Minko","(420, 739)",0.0
+252,"Gheorgheff, Mr. Stanio","Laleff, Mr. Kristo","(420, 878)",0.0
+253,"Wiseman, Mr. Phillippe","Keefe, Mr. Arthur","(425, 470)",0.0
+254,"Flynn, Mr. James","O'Connor, Mr. Maurice","(428, 459)",0.0
+255,"Flynn, Mr. James","Morrow, Mr. Thomas Rowan","(428, 560)",0.0
+256,"Flynn, Mr. James","Horgan, Mr. John","(428, 613)",0.0
+257,"Flynn, Mr. James","Tobin, Mr. Roger","(428, 776)",0.0
+258,"Flynn, Mr. James","Keane, Mr. Andrew ""Andy""","(428, 790)",0.0
+259,"Reynaldo, Ms. Encarnacion","Davis, Miss. Mary","(443, 635)",0.0
+260,"Hagland, Mr. Ingvald Olai Olsen","Hagland, Mr. Konrad Mathias Reiersen","(451, 490)",0.0
+261,"Peduzzi, Mr. Joseph","Maisner, Mr. Simon","(454, 464)",0.0
+262,"Peduzzi, Mr. Joseph","Webber, Mr. James","(454, 511)",0.0
+263,"Peduzzi, Mr. Joseph","Simmons, Mr. John","(454, 563)",0.0
+264,"Peduzzi, Mr. Joseph","Murdlin, Mr. Joseph","(454, 589)",0.0
+265,"Peduzzi, Mr. Joseph","Sirota, Mr. Maurice","(454, 837)",0.0
+266,"Toomey, Miss. Ellen","Ridsdale, Miss. Lucy","(458, 526)",0.0
+267,"O'Connor, Mr. Maurice","Morrow, Mr. Thomas Rowan","(459, 560)",0.0
+268,"O'Connor, Mr. Maurice","Horgan, Mr. John","(459, 613)",0.0
+269,"O'Connor, Mr. Maurice","Tobin, Mr. Roger","(459, 776)",0.0
+270,"O'Connor, Mr. Maurice","Keane, Mr. Andrew ""Andy""","(459, 790)",0.0
+271,"Morley, Mr. William","Theobald, Mr. Thomas Leonard","(461, 758)",0.0
+272,"Maisner, Mr. Simon","Webber, Mr. James","(464, 511)",0.0
+273,"Maisner, Mr. Simon","Simmons, Mr. John","(464, 563)",0.0
+274,"Maisner, Mr. Simon","Murdlin, Mr. Joseph","(464, 589)",0.0
+275,"Maisner, Mr. Simon","Sirota, Mr. Maurice","(464, 837)",0.0
+276,"Campbell, Mr. William","Frost, Mr. Anthony Wood ""Archie""","(466, 481)",0.0
+277,"Campbell, Mr. William","Watson, Mr. Ennis Hastings","(466, 674)",0.0
+278,"Campbell, Mr. William","Knight, Mr. Robert J","(466, 732)",0.0
+279,"Baclini, Miss. Helene Barbara","Baclini, Miss. Eugenie","(469, 644)",0.0
+280,"Frost, Mr. Anthony Wood ""Archie""","Watson, Mr. Ennis Hastings","(481, 674)",0.0
+281,"Frost, Mr. Anthony Wood ""Archie""","Knight, Mr. Robert J","(481, 732)",0.0
+282,"Calic, Mr. Petar","Culumovic, Mr. Jeso","(500, 844)",0.0
+283,"Webber, Mr. James","Simmons, Mr. John","(511, 563)",0.0
+284,"Webber, Mr. James","Murdlin, Mr. Joseph","(511, 589)",0.0
+285,"Webber, Mr. James","Sirota, Mr. Maurice","(511, 837)",0.0
+286,"Lahoud, Mr. Sarkis","Boulos, Mr. Hanna","(522, 598)",0.0
+287,"Lahoud, Mr. Sarkis","Elias, Mr. Dibo","(522, 773)",0.0
+288,"Kassem, Mr. Fared","Toufik, Mr. Nakli","(524, 531)",0.0
+289,"Kassem, Mr. Fared","Doharr, Mr. Tannous","(524, 568)",0.0
+290,"Kassem, Mr. Fared","Saad, Mr. Amin","(524, 832)",0.0
+291,"Kassem, Mr. Fared","Razi, Mr. Raihed","(524, 859)",0.0
+292,"Toufik, Mr. Nakli","Doharr, Mr. Tannous","(531, 568)",0.0
+293,"Toufik, Mr. Nakli","Saad, Mr. Amin","(531, 832)",0.0
+294,"Toufik, Mr. Nakli","Razi, Mr. Raihed","(531, 859)",0.0
+295,"Risien, Mr. Samuel Beard","Garfirth, Mr. John","(538, 760)",0.0
+296,"Morrow, Mr. Thomas Rowan","Horgan, Mr. John","(560, 613)",0.0
+297,"Morrow, Mr. Thomas Rowan","Tobin, Mr. Roger","(560, 776)",0.0
+298,"Morrow, Mr. Thomas Rowan","Keane, Mr. Andrew ""Andy""","(560, 790)",0.0
+299,"Simmons, Mr. John","Murdlin, Mr. Joseph","(563, 589)",0.0
+300,"Simmons, Mr. John","Sirota, Mr. Maurice","(563, 837)",0.0
+301,"Stoytcheff, Mr. Ilia","Cor, Mr. Liudevit","(566, 646)",0.0
+302,"Stoytcheff, Mr. Ilia","Petroff, Mr. Nedelio","(566, 877)",0.0
+303,"Doharr, Mr. Tannous","Saad, Mr. Amin","(568, 832)",0.0
+304,"Doharr, Mr. Tannous","Razi, Mr. Raihed","(568, 859)",0.0
+305,"Murdlin, Mr. Joseph","Sirota, Mr. Maurice","(589, 837)",0.0
+306,"Boulos, Mr. Hanna","Elias, Mr. Dibo","(598, 773)",0.0
+307,"Slabenoff, Mr. Petco","Mitkoff, Mr. Mito","(601, 650)",0.0
+308,"Slabenoff, Mr. Petco","Radeff, Mr. Alexander","(601, 656)",0.0
+309,"Slabenoff, Mr. Petco","Ivanoff, Mr. Kanio","(601, 738)",0.0
+310,"Slabenoff, Mr. Petco","Nankoff, Mr. Minko","(601, 739)",0.0
+311,"Slabenoff, Mr. Petco","Laleff, Mr. Kristo","(601, 878)",0.0
+312,"Torber, Mr. Ernst William","Kelly, Mr. James","(603, 696)",0.0
+313,"Horgan, Mr. John","Tobin, Mr. Roger","(613, 776)",0.0
+314,"Horgan, Mr. John","Keane, Mr. Andrew ""Andy""","(613, 790)",0.0
+315,"Bostandyeff, Mr. Guentcho","Balkic, Mr. Cerin","(628, 870)",0.0
+316,"Parr, Mr. William Henry Marsh","Fry, Mr. Richard","(633, 815)",0.0
+317,"Foo, Mr. Choong","Lam, Mr. Ali","(643, 692)",0.0
+318,"Cor, Mr. Liudevit","Petroff, Mr. Nedelio","(646, 877)",0.0
+319,"Mitkoff, Mr. Mito","Radeff, Mr. Alexander","(650, 656)",0.0
+320,"Mitkoff, Mr. Mito","Ivanoff, Mr. Kanio","(650, 738)",0.0
+321,"Mitkoff, Mr. Mito","Nankoff, Mr. Minko","(650, 739)",0.0
+322,"Mitkoff, Mr. Mito","Laleff, Mr. Kristo","(650, 878)",0.0
+323,"Radeff, Mr. Alexander","Ivanoff, Mr. Kanio","(656, 738)",0.0
+324,"Radeff, Mr. Alexander","Nankoff, Mr. Minko","(656, 739)",0.0
+325,"Radeff, Mr. Alexander","Laleff, Mr. Kristo","(656, 878)",0.0
+326,"Eitemiller, Mr. George Floyd","Berriman, Mr. William John","(658, 733)",0.0
+327,"Eitemiller, Mr. George Floyd","Troupiansky, Mr. Moses Aaron","(658, 734)",0.0
+328,"Watson, Mr. Ennis Hastings","Knight, Mr. Robert J","(674, 732)",0.0
+329,"Gillespie, Mr. William Henry","Ponesell, Mr. Martin","(722, 800)",0.0
+330,"Berriman, Mr. William John","Troupiansky, Mr. Moses Aaron","(733, 734)",0.0
+331,"Ivanoff, Mr. Kanio","Nankoff, Mr. Minko","(738, 739)",0.0
+332,"Ivanoff, Mr. Kanio","Laleff, Mr. Kristo","(738, 878)",0.0
+333,"Nankoff, Mr. Minko","Laleff, Mr. Kristo","(739, 878)",0.0
+334,"Tobin, Mr. Roger","Keane, Mr. Andrew ""Andy""","(776, 790)",0.0
+335,"Ali, Mr. William","Sutehall, Mr. Henry Jr","(784, 884)",0.0
+336,"Sage, Miss. Stella Anna","Sage, Miss. Dorothy Edith ""Dolly""","(792, 863)",0.0
+337,"Otter, Mr. Richard","Meyer, Mr. August","(795, 808)",0.0
+338,"Saad, Mr. Amin","Razi, Mr. Raihed","(832, 859)",0.0
+339,"Sadlier, Mr. Matthew","O'Connell, Mr. Patrick D","(388, 629)",8.255206720842641e-05
