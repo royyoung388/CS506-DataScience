@@ -1,5 +1,5 @@
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 trainingSet = pd.read_csv("./data/train.csv")
 testingSet = pd.read_csv("./data/test.csv")

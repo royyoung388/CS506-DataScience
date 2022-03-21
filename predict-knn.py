@@ -1,9 +1,9 @@
+import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
 
 # Load files into DataFrames
 X_train = pd.read_csv("./data/X_train.csv")
@@ -11,11 +11,11 @@ X_submission = pd.read_csv("./data/X_test.csv")
 
 # Split training set into training and testing set
 X_train, X_test, Y_train, Y_test = train_test_split(
-        X_train.drop(['Score'], axis=1),
-        X_train['Score'],
-        test_size=1/4.0,
-        random_state=0
-    )
+    X_train.drop(['Score'], axis=1),
+    X_train['Score'],
+    test_size=1 / 4.0,
+    random_state=0
+)
 
 # This is where you can do more feature selection
 X_train_processed = X_train.drop(columns=['Id', 'ProductId', 'UserId', 'Text', 'Summary'])
