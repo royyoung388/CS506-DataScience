@@ -9,3 +9,9 @@
 5. Run `predict-knn.py` to predict the score using KNN
 
 Good luck!
+
+
+## How to run model
+run `main.ipynb`.
+
+> `model.ipynb` and `nlp.ipynb` is some attempts, not the finnal model.
