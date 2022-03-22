@@ -14,4 +14,4 @@ Good luck!
 ## How to run model
 run `main.ipynb`.
 
-> `model.ipynb` and `nlp.ipynb` is some attempts, not the finnal model.
+> `model.ipynb` and `nlp.ipynb` is some attempts, not the final model.
