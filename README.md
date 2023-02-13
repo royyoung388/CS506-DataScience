@@ -1,2 +1,2 @@
-# CS506-DataScience
+# BU CS506-DataScience
 Tools Data Science
